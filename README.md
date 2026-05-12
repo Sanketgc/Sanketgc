@@ -19,13 +19,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=twitter" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="tailwindcss logo"  />
+  <a href="https://discord.com/users/sanketgc07" target="_blank"/>
+    <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"/>
+  </a>
+        <img width="12" />
+  
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sanket-chanagond-5b416a28a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo"/>
+  </a>
+        <img width="12" />
+
+  <a href="https://x.com/mr_sanket__07" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="60" alt="twitter logo"/>
+  <a>
+        <img width="12" />
+
+  <a href="mailto:sanketchanagond07@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="gmail logo"/>
+  </a>
   <img width="12" />
 </div>
 
