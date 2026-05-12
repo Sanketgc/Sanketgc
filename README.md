@@ -34,7 +34,7 @@
   <a>
         <img width="12" />
 
-  <a href="mailto:sanketchanagond07@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvMSlwBbmqChsmVnFZGstKXCrSfzZTDSCDbhFStgSLtnCkdFsGShfzQdZClxnbKZgdvzL">
     <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="gmail logo"/>
   </a>
   <img width="12" />
