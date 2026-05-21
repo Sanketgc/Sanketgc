@@ -13,27 +13,24 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Core Java(8), MySql, React, Node, Express** 
 
 - 📫 How to reach me **sanketchanagond07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-  <a href="https://discord.com/users/sanketgc07" target="_blank"/>
+  <a href="https://discord.com/users/sanketgc07" target= "_blank"/>
     <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"/>
   </a>
         <img width="12" />
-  
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sanket-chanagond-5b416a28a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo"/>
   </a>
         <img width="12" />
-
   <a href="https://x.com/mr_sanket__07" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="60" alt="twitter logo"/>
   <a>
         <img width="12" />
-
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvMSlwBbmqChsmVnFZGstKXCrSfzZTDSCDbhFStgSLtnCkdFsGShfzQdZClxnbKZgdvzL">
     <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="gmail logo"/>
   </a>
