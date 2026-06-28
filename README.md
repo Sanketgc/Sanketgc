@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://x.com/" target="blank"><img src="https://img.shields.io/x/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🔭 I’m currently working on [Certiflex](https://github.com/anillBhoi/final-year-project)
+- 🔭 I’m currently working on [Nexora AI]([https://github.com/anillBhoi/final-year-project](https://github.com/Sanketgc/Nexora-AI))
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **React.js, TypeScript.js**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
