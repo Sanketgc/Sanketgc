@@ -16,7 +16,7 @@
 - 📫 How to reach me **sanketchanagond07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div align="center">
+<div align-items="center">
   <a href="https://discord.com/users/sanketgc07" target= "_blank"/>
     <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"/>
   </a>
@@ -36,7 +36,7 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+<div align-items="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=expressjs" height="60" alt="nextjs logo"  />
